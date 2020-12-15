@@ -6,6 +6,5 @@ public class Main {
         for(int i=0;i<54;i++){
             a[i]=i+1;
         }
-
     }
 }
